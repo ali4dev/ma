@@ -3,37 +3,37 @@
     {
       "_game_title": "Penalty Challenge",
       "_game_url": "http://showcase.codethislab.com00/games/penalty_challenge/",
-      "_game_img": "https://raw.githubusercontent.com/ali4dev/img-data/main/football/1.jpg",
+      "_game_img": "https://raw.githubusercontent.com/ali4dev/ma-data/main/football-data/imgs/1.jpg",
       "_game_orientation": "h"
     },
     {
       "_game_title": "Funny Soccer",
       "_game_url": "http://showcase.codethislab.com/games/funny_soccer/",
-      "_game_img": "https://raw.githubusercontent.com/ali4dev/img-data/main/football/2.jpg",
+      "_game_img": "https://raw.githubusercontent.com/ali4dev/ma-data/main/football-data/imgs/2.jpg",
       "_game_orientation": "h"
     },
     {
       "_game_title": "Flicking Soccer",
       "_game_url": "http://showcase.codethislab.com/games/flicking_soccer/",
-      "_game_img": "https://raw.githubusercontent.com/ali4dev/img-data/main/football/3.jpg",
+      "_game_img": "https://raw.githubusercontent.com/ali4dev/ma-data/main/football-data/imgs/3.jpg",
       "_game_orientation": "h"
     },
     {
       "_game_title": "FreeKick Training",
       "_game_url": "http://showcase.codethislab.com/games/freekick_training/",
-      "_game_img": "https://raw.githubusercontent.com/ali4dev/img-data/main/football/4.jpg",
+      "_game_img": "https://raw.githubusercontent.com/ali4dev/ma-data/main/football-data/imgs/4.jpg",
       "_game_orientation": "h"
     },
     {
       "_game_title": "Kick Ups",
       "_game_url": "http://showcase.codethislab.com/games/kickups/",
-      "_game_img": "https://raw.githubusercontent.com/ali4dev/img-data/main/football/5.jpg",
+      "_game_img": "https://raw.githubusercontent.com/ali4dev/ma-data/main/football-data/imgs/5.jpg",
       "_game_orientation": "v"
     },
     {
       "_game_title": "FootGolf evolution",
       "_game_url": "https://showcase.codethislab.com/games/footgolf_evolution_c2/",
-      "_game_img": "https://raw.githubusercontent.com/ali4dev/img-data/main/football/6.jpg",
+      "_game_img": "https://raw.githubusercontent.com/ali4dev/ma-data/main/football-data/imgs/6.jpg",
       "_game_orientation": "h"
     }
   ]
