@@ -2,7 +2,7 @@
   "myads": {
     "_Reward_Or_Interstitial": "interstitial",
     "_status_Interstitial": "ADMOB",
-    "_status_reward": "ADMOB",
+    "_status_reward": "off",
     "_status_banner_native": "ADMOB",
     "_admob_app_id": "ca-app-pub-7736364281318195~4354284220",
     "_admob_reward": "ca-app-pub-7736364281318195/6815165728",
